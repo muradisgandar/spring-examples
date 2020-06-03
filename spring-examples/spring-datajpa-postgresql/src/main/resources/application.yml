@@ -1,0 +1,14 @@
+spring:
+  datasource:
+    platform: postgres
+    url: jdbc:postgresql://localhost:5432/javadb
+    username: postgres
+    password: example
+
+  jpa:
+    database: postgresql
+    hibernate:
+      ddl-auto: update
+
+server:
+  port: 8081
