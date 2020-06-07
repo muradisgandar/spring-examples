@@ -65,3 +65,5 @@ Dspring-datajpa-postgresql/src/main/java/com/company/dto/UserDTO.java,a/c/aca22
 Rspring-datajpa-postgresql/src/main/java/com/company/controller/UserController.java,e/c/ec921ac6faa8d44071120f8060914c0036201431
 z
 Jspring-datajpa-postgresql/src/main/java/com/company/mapper/UserMapper.java,8/7/873f95d39f3feec9f7716b65eaf89974fed73ddb
+L
+spring-boot-rabbitmq/pom.xml,c/f/cffe725fef4709095630c10009d6ca9c6230174e

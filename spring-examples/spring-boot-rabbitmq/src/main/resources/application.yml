@@ -1,0 +1,15 @@
+spring:
+  rabbitmq:
+    username: queue
+    password: queue
+    host: localhost
+    port: 5672
+
+sb:
+  rabbit:
+    queue:
+      name: company-queue
+    exchange:
+      name: company-exchange
+    routing:
+      name: company-routing
