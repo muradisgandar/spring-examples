@@ -67,3 +67,13 @@ z
 Jspring-datajpa-postgresql/src/main/java/com/company/mapper/UserMapper.java,8/7/873f95d39f3feec9f7716b65eaf89974fed73ddb
 L
 spring-boot-rabbitmq/pom.xml,c/f/cffe725fef4709095630c10009d6ca9c6230174e
+Ä
+Pspring-boot-rabbitmq/src/main/java/com/company/config/RabbitMQConfiguration.java,9/c/9c91ee87d8b6a913dad088f1e64fdcbf6f64b978
+Å
+Qspring-boot-rabbitmq/src/main/java/com/company/listener/NotificationListener.java,a/e/ae27c0a48cf4492584716087c0894aaada24656f
+v
+Fspring-boot-rabbitmq/src/main/java/com/company/model/Notification.java,9/4/94deac83b8c4cd46d746da3d062de2c0780cd114
+u
+Espring-boot-rabbitmq/src/main/java/com/company/RabbitApplication.java,8/b/8bbfc47b12c56b5556fc95b377d1f6ae0a41229f
+Å
+Qspring-boot-rabbitmq/src/main/java/com/company/producer/NotificationProducer.java,a/9/a94525b9d50373e733847fa2aaf9ee787da4ba48
