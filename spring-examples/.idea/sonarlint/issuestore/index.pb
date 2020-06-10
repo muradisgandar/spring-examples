@@ -77,3 +77,9 @@ u
 Espring-boot-rabbitmq/src/main/java/com/company/RabbitApplication.java,8/b/8bbfc47b12c56b5556fc95b377d1f6ae0a41229f
 Å
 Qspring-boot-rabbitmq/src/main/java/com/company/producer/NotificationProducer.java,a/9/a94525b9d50373e733847fa2aaf9ee787da4ba48
+Ö
+Uspring-boot-dockerization/src/main/java/com/company/controller/MessageController.java,7/7/77a7b169490362a585bd58e96f947f46cffeb40d
+Å
+Qspring-boot-dockerization/src/main/java/com/company/DockerizationApplication.java,a/4/a4f2c757a3de4f4f215f2f26001a61650ee9a421
+Q
+!spring-boot-dockerization/pom.xml,d/6/d6ed46188e5b270868560dca3a7ee7b546ecdf8f
