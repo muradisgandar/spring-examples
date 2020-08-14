@@ -19,8 +19,6 @@ g
 7spring-mongo-rest-api/target/classes/docker-compose.yml,1/7/17fd75518b0f83267d694016945a73f98703cb38
 M
 spring-mongo-rest-api/pom.xml,e/c/ec25eb18e5c221799d9926d5dec241486e514f72
-_
-/spring-mongo-rest-api/spring-mongo-rest-api.iml,7/9/79c9a8bf1ae79050411d6dad88fce10a63f9f3bc
 p
 @spring-mongo-rest-api/src/main/java/com/company/api/UserApi.java,a/f/aff89d3a3d7c5ba50482e56608e820848b42ffa0
 L
@@ -83,3 +81,15 @@ Uspring-boot-dockerization/src/main/java/com/company/controller/MessageControlle
 Qspring-boot-dockerization/src/main/java/com/company/DockerizationApplication.java,a/4/a4f2c757a3de4f4f215f2f26001a61650ee9a421
 Q
 !spring-boot-dockerization/pom.xml,d/6/d6ed46188e5b270868560dca3a7ee7b546ecdf8f
+G
+spring-boot-aop/pom.xml,a/b/ab036d120b6e2c7b0d664fca9e1d3e16b072e32d
+
+Ospring-boot-aop/src/main/java/com/company/aop/service/SecondMessageService.java,6/8/68a3a3357271ca40c4e801c4ccd93a376b175977
+y
+Ispring-boot-aop/src/main/java/com/company/aop/service/MessageService.java,c/d/cddceb1d3e9d1f154e864393965edafbc3e98db0
+w
+Gspring-boot-aop/src/main/java/com/company/aop/SpringAopApplication.java,0/5/052e30a5f879fd00764ffed981e9ed997db62a8e
+q
+Aspring-boot-aop/src/main/java/com/company/aop/api/MessageApi.java,9/d/9d1617820efcfe8cbf53d2d0d2bb3ab762a398c6
+w
+Gspring-boot-aop/src/main/java/com/company/aop/aspect/ServiceAspect.java,e/9/e94cc8d14b21e30cddd96faa49b712ae4d2976e0
