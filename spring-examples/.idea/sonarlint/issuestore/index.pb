@@ -117,3 +117,13 @@ Qspring-boot-graphql/src/main/java/com/company/graphql/repo/VehicleRepository.ja
 Sspring-boot-graphql/src/main/java/com/company/graphql/api/VehicleQueryResolver.java,b/6/b67d20b6686d57aa1b3577ecbae18584af62dedf
 y
 Ispring-boot-graphql/src/main/java/com/company/graphql/dto/VehicleDto.java,0/2/02ea9cfd45edee47549085c39cf98bf7b1556dfb
+J
+spring-redis-cache/pom.xml,5/b/5bd2b806ff5d8bcbbe8f7ee36208a7913ae3fdd6
+Ä
+Pspring-redis-cache/src/main/java/com/murad/redisapp/config/AppConfiguration.java,0/c/0c438be8b23c6cc41b03de41c3299166b3eb8643
+Ç
+Rspring-redis-cache/src/main/java/com/murad/redisapp/service/RedisCacheService.java,9/8/98e961480bac46d3e39d213aea841acb09df39f2
+~
+Nspring-redis-cache/src/main/java/com/murad/redisapp/RedisCacheApplication.java,4/9/499a2a97ca808e19228380006cb75895893a95ab
+Å
+Qspring-redis-cache/src/main/java/com/murad/redisapp/api/RedisCacheController.java,7/a/7a1c849679e1907cbdd2cbe1fbccf794fa1447b4

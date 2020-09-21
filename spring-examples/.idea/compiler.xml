@@ -15,6 +15,7 @@
         <module name="spring-redis-cache" />
         <module name="spring-mongo-rest-api" />
         <module name="spring-datajpa-postgresql" />
+        <module name="spring-boot-jwt" />
         <module name="spring-boot-graphql" />
       </profile>
     </annotationProcessing>
@@ -27,6 +28,7 @@
       <module name="spring-boot-aop" options="-parameters" />
       <module name="spring-boot-dockerization" options="-parameters" />
       <module name="spring-boot-graphql" options="-parameters" />
+      <module name="spring-boot-jwt" options="-parameters" />
       <module name="spring-boot-rabbitmq" options="-parameters" />
       <module name="spring-boot-websocke" options="-parameters" />
       <module name="spring-datajpa-postgresql" options="-parameters" />
