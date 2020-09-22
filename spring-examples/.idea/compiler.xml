@@ -16,6 +16,7 @@
         <module name="spring-mongo-rest-api" />
         <module name="spring-datajpa-postgresql" />
         <module name="spring-boot-jwt" />
+        <module name="spring-security-facebook-login" />
         <module name="spring-boot-graphql" />
       </profile>
     </annotationProcessing>
@@ -35,6 +36,7 @@
       <module name="spring-elasticsearch" options="-parameters" />
       <module name="spring-mongo-rest-api" options="-parameters" />
       <module name="spring-redis-cache" options="-parameters" />
+      <module name="spring-security-facebook-login" options="-parameters" />
     </option>
   </component>
 </project>
