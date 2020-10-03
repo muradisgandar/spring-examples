@@ -20,6 +20,7 @@
         <module>spring-redis-cache</module>
         <module>spring-boot-jwt</module>
         <module>spring-security-facebook-login</module>
+        <module>spring-boot-events</module>
     </modules>
 
 
