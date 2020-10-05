@@ -7,15 +7,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spring-boot-events" />
         <module name="spring-elasticsearch" />
         <module name="spring-boot-dockerization" />
+        <module name="spring-datajpa-postgresql" />
+        <module name="spring-boot-events" />
         <module name="spring-boot-rabbitmq" />
+        <module name="spring-boot-versioning" />
         <module name="spring-boot-websocke" />
         <module name="spring-boot-aop" />
         <module name="spring-redis-cache" />
         <module name="spring-mongo-rest-api" />
-        <module name="spring-datajpa-postgresql" />
         <module name="spring-boot-jwt" />
         <module name="spring-security-facebook-login" />
         <module name="spring-boot-graphql" />
@@ -33,6 +34,7 @@
       <module name="spring-boot-graphql" options="-parameters" />
       <module name="spring-boot-jwt" options="-parameters" />
       <module name="spring-boot-rabbitmq" options="-parameters" />
+      <module name="spring-boot-versioning" options="-parameters" />
       <module name="spring-boot-websocke" options="-parameters" />
       <module name="spring-datajpa-postgresql" options="-parameters" />
       <module name="spring-elasticsearch" options="-parameters" />
