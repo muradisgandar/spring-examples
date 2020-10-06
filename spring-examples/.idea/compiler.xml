@@ -11,6 +11,7 @@
         <module name="spring-boot-dockerization" />
         <module name="spring-datajpa-postgresql" />
         <module name="spring-boot-events" />
+        <module name="spring-boot-exception-handling" />
         <module name="spring-boot-rabbitmq" />
         <module name="spring-boot-versioning" />
         <module name="spring-boot-websocke" />
@@ -31,6 +32,7 @@
       <module name="spring-boot-aop" options="-parameters" />
       <module name="spring-boot-dockerization" options="-parameters" />
       <module name="spring-boot-events" options="-parameters" />
+      <module name="spring-boot-exception-handling" options="-parameters" />
       <module name="spring-boot-graphql" options="-parameters" />
       <module name="spring-boot-jwt" options="-parameters" />
       <module name="spring-boot-rabbitmq" options="-parameters" />

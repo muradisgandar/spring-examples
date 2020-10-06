@@ -22,6 +22,7 @@
         <module>spring-security-facebook-login</module>
         <module>spring-boot-events</module>
         <module>spring-boot-versioning</module>
+        <module>spring-boot-exception-handling</module>
     </modules>
 
 
