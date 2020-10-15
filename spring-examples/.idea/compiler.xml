@@ -18,6 +18,7 @@
         <module name="spring-boot-websocke" />
         <module name="spring-boot-aop" />
         <module name="spring-redis-cache" />
+        <module name="spring-boot-gridfs-fileupload" />
         <module name="spring-mongo-rest-api" />
         <module name="spring-boot-jwt" />
         <module name="spring-security-facebook-login" />
@@ -35,6 +36,7 @@
       <module name="spring-boot-events" options="-parameters" />
       <module name="spring-boot-exception-handling" options="-parameters" />
       <module name="spring-boot-graphql" options="-parameters" />
+      <module name="spring-boot-gridfs-fileupload" options="-parameters" />
       <module name="spring-boot-hazelcast-cache" options="-parameters" />
       <module name="spring-boot-jwt" options="-parameters" />
       <module name="spring-boot-rabbitmq" options="-parameters" />
