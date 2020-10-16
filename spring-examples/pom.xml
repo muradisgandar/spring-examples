@@ -25,6 +25,7 @@
         <module>spring-boot-exception-handling</module>
         <module>spring-boot-hazelcast-cache</module>
         <module>spring-boot-gridfs-fileupload</module>
+        <module>spring-boot-kafka</module>
     </modules>
 
 

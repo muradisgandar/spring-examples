@@ -10,6 +10,7 @@
         <module name="spring-elasticsearch" />
         <module name="spring-boot-hazelcast-cache" />
         <module name="spring-boot-dockerization" />
+        <module name="spring-boot-kafka" />
         <module name="spring-datajpa-postgresql" />
         <module name="spring-boot-events" />
         <module name="spring-boot-exception-handling" />
@@ -39,6 +40,7 @@
       <module name="spring-boot-gridfs-fileupload" options="-parameters" />
       <module name="spring-boot-hazelcast-cache" options="-parameters" />
       <module name="spring-boot-jwt" options="-parameters" />
+      <module name="spring-boot-kafka" options="-parameters" />
       <module name="spring-boot-rabbitmq" options="-parameters" />
       <module name="spring-boot-versioning" options="-parameters" />
       <module name="spring-boot-websocke" options="-parameters" />
